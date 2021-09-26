@@ -1,2 +1,2 @@
 # Pneumonia-Diagnosis-with-Attention
-Code for paper "A Biologically Inspired Attention-guided Machine Learning Approach forPneumonia Diagnosis"
+Source code for paper "A Biologically Inspired Attention-guided Machine Learning Approach for Pneumonia Diagnosis"
